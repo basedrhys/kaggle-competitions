@@ -1,0 +1,13 @@
+# Data directories
+**/data/*
+
+# PyTorch Model Zoo models
+torch-zoo/*
+
+# Ignore saved model files
+**/models/*
+
+**/.ipynb_checkpoints
+
+# WandB Output
+**/wandb/*
